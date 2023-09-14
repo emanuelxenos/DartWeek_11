@@ -13,18 +13,18 @@ E é claro o riverpod, onde é pacote principal, onde foi centralizado o estudo,
 
 ## Desing das tela com o resultado esperado no desenvolvimento
 <div>
-  <image src='design/adm_01.png' width='220'/>
-  <image src='design/adm_02.png' width='220'/>
-  <image src='design/adm_03.png' width='220'/>
-  <image src='design/adm_04.png' width='220'/>
-  <image src='design/adm_05.png' width='220'/>
-  <image src='design/adm_06.png' width='220'/>
-  <image src='design/adm_07.png' width='220'/>
-  <image src='design/colab_03.png' width='220'/>
-  <image src='design/adm_09.png' width='220'/>
-  <image src='design/adm_08.png' width='220'/>
-  <image src='design/colab_04.png' width='220'/>
-  <image src='design/colab_05.png' width='220'/>
+  <img src='design/adm_01.png' width='220'/>
+  <img src='design/adm_02.png' width='220'/>
+  <img src='design/adm_03.png' width='220'/>
+  <img src='design/adm_04.png' width='220'/>
+  <img src='design/adm_05.png' width='220'/>
+  <img src='design/adm_06.png' width='220'/>
+  <img src='design/adm_07.png' width='220'/>
+  <img src='design/colab_03.png' width='220'/>
+  <img src='design/adm_09.png' width='220'/>
+  <img src='design/adm_08.png' width='220'/>
+  <img src='design/colab_04.png' width='220'/>
+  <img src='design/colab_05.png' width='220'/>
 </div>
 
 ## Mais sobre o evento
